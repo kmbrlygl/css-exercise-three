@@ -22,7 +22,7 @@ nav {
   margin: 0 auto;
   padding: 15px 0 15px 15px;
   position: fixed;
-  width: 405px; /* I don't know where the extra 15px are coming from, but I subtracted it to fix the 420px */
+  width: 405px; /* I don't know where the extra 15px are coming from, but I subtracted it to fit 420px width */
   background-color: #000;
 } 
 
